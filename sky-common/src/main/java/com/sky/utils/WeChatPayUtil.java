@@ -60,7 +60,7 @@ public class WeChatPayUtil {
             List<X509Certificate> wechatPayCertificates = Arrays.asList(x509Certificate);
 
             WechatPayHttpClientBuilder builder = WechatPayHttpClientBuilder.create()
-                    .withMerchant(weChatProperties.getMchid(), weChatProperties.getMchSerialNo(), merchantPrivateKey)
+                    .withMerchant(weChatProperties.getMchid(),weChatProperties.getMchSerialNo(), merchantPrivateKey)
                     .withWechatPay(wechatPayCertificates);
 
             // 通过WechatPayHttpClientBuilder构造的HttpClient，会自动的处理签名和验签
@@ -79,13 +79,13 @@ public class WeChatPayUtil {
      * @param body
      * @return
      */
-    private String post(String url, String body) throws Exception {
+    private String post(String url,String body) throws Exception {
         CloseableHttpClient httpClient = getClient();
 
         HttpPost httpPost = new HttpPost(url);
         httpPost.addHeader(HttpHeaders.ACCEPT, ContentType.APPLICATION_JSON.toString());
-        httpPost.addHeader(HttpHeaders.CONTENT_TYPE, ContentType.APPLICATION_JSON.toString());
-        httpPost.addHeader("Wechatpay-Serial", weChatProperties.getMchSerialNo());
+        httpPost.addHeader(HttpHeaders.CONTENT_TYPE,ContentType.APPLICATION_JSON.toString());
+        httpPost.addHeader("Wechatpay-Serial",weChatProperties.getMchSerialNo());
         httpPost.setEntity(new StringEntity(body, "UTF-8"));
 
         CloseableHttpResponse response = httpClient.execute(httpPost);
