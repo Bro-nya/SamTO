@@ -97,7 +97,6 @@ public class EmployeeServiceImpl implements EmployeeService {
      * @param employeePageQueryDTO
      * @return
      */
-    @Override
     public PageResult pageQuery(EmployeePageQueryDTO employeePageQueryDTO) {
         //使用pagehelper插件
         PageHelper.startPage(employeePageQueryDTO.getPage(),employeePageQueryDTO.getPageSize());
@@ -108,6 +107,21 @@ public class EmployeeServiceImpl implements EmployeeService {
         List<Employee> records=page.getResult();
 
         return new PageResult(total,records);
+    }
+
+    /**
+     * 启用禁用账号
+     * @param status
+     * @param id
+     */
+    public void startOrStop(Integer status, Long id) {
+        //update employee set status = ? where id = ?
+        Employee employee=Employee.builder()
+                        .status(status)
+                        .id(id)
+                        .build();
+
+        employeeMapper.update(employee);
     }
 
 }
