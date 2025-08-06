@@ -1,0 +1,95 @@
+${AnsiColor.BRIGHT_GREEN}
+            fWWt                                                                    W##
+            WDGG#f                                                               ;WDGGW
+            WDGDGG#i                                                           :WGGGGGW
+            WDGGGGGE#                                                         WKGGGGGGW
+            WDGGGGDjjWE                                                     jWGGGGGGGGW
+            WDGGGGDjjjDW                                                   #DjjDGGGGGGW
+            EDGGGGDDjjLGW                                                 #GGjLGGGGGGDW
+            LEGGGGGGDGGGGW                                               #GGGGGGGGGGGDW
+            iDGGGGGGLjGGGGK.                                            WGGGGGGDGGGGGEW
+             EDGGGGGDGGGGGGD:                                          EGGGGGGGGGGGGGEW
+             EEGGGGGGGGGGGGGD:                                        EDGGGGGGGGGGGGDEG
+             #j;;LDGGGGGGGGGGDi                                     :DGGGGGGGGGGDf;;jj.
+             #i;;;;iEDGGGGGGGGK                                     WDGGGGGGGDD;;;;,tE
+             W,;  :i;;KGGGGGGGDW                                   WGGGGGGGGE;;i:   ;W
+             ;,;    .;tjKDGGGGGEW            .,,. .:,:            EDGGGGGGKjii.    ;,#
+              t,      ;jjLGDGGGDK:     ,WWWWWEDDKKKDGGKWWWW;      KEGGGGDGjj;      ;,E
+              W,.     ;,ijiDGGGGEW  ;#WWGLEWffLfffffLfLWEGGKWWL  WEDGGGDtji,;      ;,
+              #,,     ;;;,f;GGGGEDWWKf;,,,,,,W,,,,,,,W:,,,,,;fD#WDEGGGL;f;;;;     .;L
+              #j,     ;;,,,t;;DGGKEj,,,,,,,,,;f,,,,,f,,,,,,,,,,jLWDGG;;t;,;;,     ,jK
+              #t;;;;.   ;;;; ;;D#t,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t#D;; ;;,;    i;;;jL
+          .tfiWEEt;;;;,   ;;; ;W,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,Ej ;;;   ,;;;;tDEE;ft.
+      KW##WWW#WDGGGDE;;;,   ,Di,;;,,,,,,,,,,,,E,,,,,D,,;,,,,,,,,,,;,iW;   ,;;;DDGGGGEWWWWW#W#.
+   i##Lfi,,,;;WGGGGGGDDj;;: W,,t,,,,,,,,j;,,,j,,,,,,,iE,,;t;,,,,,,,t,;W :;;jDGGGGGGGDf;,,,;jfKWE
+   Wf;,,,,,,,,KGGGGGGGGGGt;K;,f,,,,,;,j,,,,,,,,,,,,,,,tK,,,,j,,;,,,,f,;#;tDDGGGGGGGGED,,,,,,,,LWL
+   WL,,,,,,,,,EGGGGGGGDGGGW;,j,,,,,,,E,;,;,f,;,,,,,,,,,tL,,,,D,,,,,,,f:;WGGDGGGGGGGGDW,,,,,,,,fDL
+   WfLLfi,,,,;EGGGGGGGGGGD;,;,,,,,,,G,,,,,#,,,,,,,,,,,,,L,,,,,G,,,,,,,,;iKGGGGGGGGGGD#,,,,;fLLLLD
+   WffLLLLLL;jEGGGGGGGGGGL,,,,,,,,,G,,,,,t,,,,,,,,,,,,,,,K,,,;,G,;,,,;,,,fDGGGGGGGGGD#,LLLLLLLfLK
+   Wf,,,,,,,,LEGGGGGGGGGW,,L,,,,,,L,,,,,,K,,,,,,,,,,,,,,,L,,,,,,G,,,,,,f,,EGGGGGGGGGD#,,,,,,,,LLK
+   WL,,,,,,,;,WEDGGGGGGK,,j,,,,,,ii,,,,,,j,,,,,,,,,,,,,,,;L,,,,,;i,,,,,,j,,#GGGGGGDEEE,,,,,,,,fLK
+   KL,,,,,,,,,:#EEEEDGGL,,,,,,,,,D,,,,,,W,,,,,,,,,,,,,,,,,E,,,,,,G,;,,,,,,,fGGGGDEE#E,,,,,,,,,LfW
+  iKL,,,,,,,,,;,,#WEDEW,,G,;,,,,t,,,,,,,L,,,,,,,,,,,,,,,,,f:,,,,,,i,,,,,;G,,WDEEW#ffL,,,,,,,,,LfW
+  LDL:,,,,,,,;,,,,,;#Wj,,,,,,,,,G,,,,,,,f;,,,,,,,,,,,,,,,,if,,,,,,G,,,,,,,,,fWWi:LLLL,,,,,,,,,LfW
+  EKf..:::,jEL,,,,;,,K,,f,,,,,,;,,,,,,,Ef,,,,,,,,,;,,,,,,,,K,,,,,,,;,,,,,,L,,W,,,fffitWL;:::.:fLW
+  EWEDGDEWD,,,,GG:,,Lf,,:,,,,,,K,,,,,,,W;,,,,,,,,,;,,,,,,,,E,,,,,,,G,,,,,,,,,LD,,LEK,,::fWKDGDEDW
+   WKfffffffL#t,:,E;#,,L:,,,,,,j,,,,,,,D,,,,,,,,,,;,,,,,,,,L,,,,,,,t,,,,,,:L,,#,Kfff;#DffffLLfGWj
+    W#GffffffffLK::WL,,,::,,,,,,,,,,,,,L,,,,,,,,,,i,,,,,,,,L,,,,,,,,,,,,,::,,,LtffWDfffffffff#W
+     GWWGfffffLfff#Df,f,::::,,K,,,,,,,,f,,,,,,,,,,i,,,,,,,,L,,,,,,,,G,,:::::j,fW#ffffffffff#W.
+       WWWEKWWKDW#E#i,t::::::,E,,,,,,,,L,,,,,,,,,,t,,,,,,,,L,,,,,,,,j:::::::j,i#E#KDKWWWD#W.
+     D#Wt:,,,,,,,jfL,,,:::::::,::,,,,,,f,,,,,,,,,,i,,,,,,,,f,,,,,,:::,:::::::,,Lff,,,,,,,:,W#W
+    WW:,,,,;,,,,,LfL,j,::::::t:::::::::L:,,;,,,,,,;,;,,,;,:L:::::::::t:::::,,j,ffL,,,,,,;,,,,D#t
+   Wf,,,,,,;jt,,,LWf,L,,;,,::W:::::::::E::::::::,,,,,::::::D:::::::::E::,,,,,G,fWf,,,tf;,,,,,,fW
+   Wff,,tL.,DEKKKWWL,i,,,,,,,W,,,,;,,,,W;,,,,,,,,,,::::::::K:,,,,,,,,K,,,,,,,t,L##KKKKEi.jf,,;fW
+   :DfK:if,,,,,,iEEL,,,,,,,,,L,,,,,,,,,Kf,,,,,,,,;,,,,,,,,;K,,,,,,,,,L,,,,,,,,,LKDD,,,;,,tf:WjfK
+    #f,,,,,,,,,,EDLL;,,,,,,,,;,,;i,,,,,Gf,,,,,,,,f,,,,,,,,ff,,,,,,,,,;;,,,,,,,;LGEE,,,,,,,,,;LW:
+    Wf,,,,,,,,,WDDfLf,,,,,,,t,,,i,,,,,fWf,,,,,,,,K,,,,,,,,LG,,,,,,;,,:t,,,,,,,jLfEEK,,,,,,,,,fW
+    Wf;,,,,,,,:DEEfLL,,,,,,,G,,,;,,,,;fG#f,,,,,,,#,,,,,,;;#Kf,,,,,,,,,L,,,,,,,LLfEEDW;,,,,,,,f#
+    Wff,,,,,,,#DEEffL,,,,,,,E,,G,,,,,tW,jf,,,,,,,W,,,,,,,f;,E,,,,,,t,,D,,,,,,,GffEEEG:,,,,,,,fW
+    WfL,,,,,,,GDDKffL,,,,,,,K,,t,,,,,f;;,K;,,,,,,t,,,,,,,W,,tf,,,,,,,,D,,,,,,,LffKEEG#,,,,,,ffW
+    iDL,,;i::#GDELffL,,,,,,,K,D,,,,,i#, ,Lf,,,,,i,,,,,,,fj, ,W;,,,,,G:K,,,,,,,LffEEDGG::;i,,LfW
+     Wf,LKEEEGGDjDffL,,,,,,;W,D,,,,,K:,  ,Ki,,,,#,,,,,,;#,; ,,D,,,,,,:W;,,,,,,LffWjKGG#DEKE,fEt
+     WWfffffKGE,jGffL,,,,,,tKG,,,,,j:;   :;j,,,,W,,,,,,f,;   ;i;,,,,,GWt,,,,,,LLfKjtfDKfffffDW
+     .WWffffKt,;,DfLf,,,,,,fKW,,,,,E;     ;Wf,,:,,,,,,jK,    .,W,,,,,fKf,,,,,,fLfW,t;;GfLff##f
+       EWWWL,;i ,Wffff,,,,,fE,,,,,W, .     ,Wt,E,,,,,,#,..    .,W;,,,,WL,,,,,fLLfE, ,;;#K#WL
+        WWKW;:  #LfffL,,,,,fW,,,;f,.       .,E;#,,,,,W:.       :,i,,,,WL,,,,,LLffLW   ;iL#W
+       Wf,:;   #;fffff,,,,,fW,,,,,:         ,,f;,,,,D:.         ,t,,,,Kf,,,,,Lffff;D   ;E:fW,
+       #f;E   #,:fffffi,,,,fL,,,G:           ,#,,,,t,.           ,W,;;Kf,,,,jLLfLL,,G.  K,fWj
+       WfLK .WGEDEGfffL,,,,ff,,#GLLLGLGGD.    W;,,if#    .DGGGGGGGL#,,Kf,,,,fLLfEDDDGjW  ,fW
+       ;#j #,,,,,LKffff,,,,fL,#: LLLLLLLL     ;,,Lf,,     LLLLLLLG ;#:Wf,,;,ffff#L,,,,,# WEW
+        #Gt,,,,,,jWffffG,,,ffW.. LLLLLLLL,   D:,#:#::#   ;LLLLLLLG  ,#WL,,,LLLffWf,,,,,,:#W
+        Wf,,,:,;LWWfffff,,,fW:   LLLLLLLLj   ##... .W#.. fLLLLLLLL  .:#L,,,LLLfLKKLi,,,,;LW
+        WjEWDffff#:fffffG,,LE,   LLf;;jGLi            .  jLGt;;fLG  .:Wf,,fLLLfG:WffffGWWf#
+        ,WEfffLfff#EfLfff,,LW;   L,;;;;;;:               ;;;;;;;;L   ,WL,,fLLffW#fLfffffL#W
+          WWWWWKGfjWffffLL,LW,   ,i;;;;;i                 ;;;;;;;,   ;KL,LfLLLfWffGKWWWWW;
+         Wf,,,,,,,fWffffffLfW;    ii;;;;i                 ;;;;;;i.   iEfLfLLLLLWf,,,,,,,fW
+         ,L,,,,,,,,LKfffffffKi    ;i;;;; .                 i;;;;;.   jLfffffLf#f,,;,,,,,fW
+          Efji;tKG,fWfffffffLf.   ..i;i                     tit .   .jffffffffWf,GKf,itfGf
+         .D,,,,,;,,KWGffLffffi:    ..                     ..   ...  tGfffffffWWE,,;,,,,,LK
+         :L:,,,,,,,fWWffGffffLj                                   . L#ffLLfffWWf,,,,,,,,LW
+          #Wi,f;,,LfWjDLfLfff#f                                    ,,ELffLffWfWfL,,,j,,K#f
+            ,##jLLLfD WLLELfLG:f                                   L;ffffLff# GLLfL;W#;
+             .#fKDfW   WffWfffLt.                                 Gf#fffDff#.  WfDKf#f
+            ;DjffffW   ELLLfffW;L .            .  .              L.DGLLfffWD   #fLfLfK#
+            D,:KLW#,    Wff#fffW L .               .            f  #fff#fEW     WWLGi:#
+            L.j:WG       GEfWffW  f,.                          L  iDff#jWW       jW:;,#
+             #:,,,W        WE#ffW   G                       .G:   WfLWD#:       E;,;,WL
+              #W,jW         GWEWK     ff.          .     .jL     ff#iWK         Wt,K#
+                ,GK           . WW    t. GLLj,       :jfL.;W     WW .           tEt
+               :WW                K   D G:tiL,;;ii;;;i;i K #    j                WW;
+                :                    WW   ;;D,,,;;,,,ii:   LW                     .
+                                   ,W      Ei;,;;;,,,iG     .tt
+                                    ti      ; LWi,Ef,       ;W
+                                    Di         ; W D         ;,
+                                   fii            :        .ii;.
+                                   W;             .         ;i#G
+                                  Wti;i                      ;tjW
+                                 KtD#L;                   :if#.ttK
+                                 #Ltti;  t              tii;W;ttW
+                                   KjWWEiiit      i ,  ii;DW#t#K
+                                     WKttKG;iiit ;i;iiiG#ftEWL
+                                        tW;;i. :iii  ;;#WD
+                                           W         ,L
+                                           WjL:     #
+                                              :KDfW:
+${AnsiColor.DEFAULT}
