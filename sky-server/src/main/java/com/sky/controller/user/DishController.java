@@ -52,7 +52,7 @@ public class DishController {
         // 如果不存在，查询数据库，将查询到的数据放入redis中
         list = dishService.listWithFlavor(dish);
         //1分钟过期
-        redisTemplate.opsForValue().set(key, list, 60, TimeUnit.SECONDS);
+        redisTemplate.opsForValue().set(key, list, 180, TimeUnit.SECONDS);
 
         return Result.success(list);
     }
