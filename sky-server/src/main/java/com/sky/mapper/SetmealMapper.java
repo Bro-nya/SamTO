@@ -43,7 +43,6 @@ public interface SetmealMapper {
      */
     List<Setmeal> list(Setmeal setmeal);
 
-    //TODO
     /**
      * 新增套餐
      * @param setmeal
@@ -80,6 +79,6 @@ public interface SetmealMapper {
      */
     @Select("select * from setmeal_dish where setmeal_id = #{setmealId}")
     List<SetmealDish> getBySetmealId(Long setmealId);
-    //TODO
+
     void update(Setmeal setmeal);
 }

@@ -24,7 +24,6 @@ public interface SetmealService {
      */
     List<DishItemVO> getDishItemById(Long id);
 
-    //TODO
 
     /**
      * 新增套餐，同时需要保存套餐和菜品的关联关系

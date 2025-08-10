@@ -48,7 +48,6 @@ public interface DishService {
      */
     List<DishVO> listWithFlavor(Dish dish);
 
-    //TODO
     /**
      * 根据分类id查询菜品
      * @param categoryId

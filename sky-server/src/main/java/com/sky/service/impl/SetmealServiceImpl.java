@@ -58,7 +58,6 @@ public class SetmealServiceImpl implements SetmealService {
         return setmealMapper.getDishItemBySetmealId(id);
     }
 
-    //TODO
     /**
      * 新增套餐，同时需要保存套餐和菜品的关联关系
      * @param setmealDTO

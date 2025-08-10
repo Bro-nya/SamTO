@@ -171,7 +171,6 @@ public class DishServiceImpl implements DishService {
         return dishVOList;
     }
 
-    //TODO
     /**
      * 根据分类id查询菜品
      * @param categoryId
