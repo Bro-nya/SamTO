@@ -5,8 +5,8 @@ import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Select;
 
 import java.time.LocalDateTime;
-import java.util.Date;
 import java.util.List;
+import java.util.Map;
 
 @Mapper
 public interface OrderMapper {
@@ -38,4 +38,10 @@ public interface OrderMapper {
      */
     @Select("SELECT * FROM orders WHERE id=#{id}")
     Orders getById(Long id);
+
+    /**
+     * 根据动态条件统计营业额数据
+     * @return
+     */
+    Double sumByMap(Map map);
 }
