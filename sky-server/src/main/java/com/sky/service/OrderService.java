@@ -10,4 +10,10 @@ public interface OrderService {
      * @return
      */
     OrderSubmitVO submitOrder(OrdersSubmitDTO ordersSubmitDTO);
+
+    /**
+     * 催单
+     * @param id
+     */
+    void reminder(Long id);
 }
